@@ -1,4 +1,4 @@
-In this assignment, you'll experiment with a policy gradient algorithm for RL. We'll play with an open-source A3C implementation from [Nvidia](https://github.com/NVlabs/GA3C). The description of the problem statement and a brief background is provided in ```assets/main.pdf```. 
+In this assignment, you'll experiment with a policy gradient algorithm for RL. We'll play with an open-source A3C implementation from Nvidia [(code)](https://github.com/NVlabs/GA3C). The description of the problem statement and a brief background is provided in ```assets/main.pdf```. 
 
 ### Required Reading
 1. [A3C](https://arxiv.org/pdf/1602.01783.pdf) -- Helps you grasp the objective function, network architecture, idea of parallel agents etc. Definitely look at the pseudocode for the algorithm (Supplementary Algorithm S3).
